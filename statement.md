@@ -1,4 +1,4 @@
-Problem Statemen
+Problem Statement
 The current healthcare system requires quick, automated tools for preliminary patient assessment. The problem is to develop a robust and error-resistant computational tool that accepts a user's standard physical metrics (height in cm, weight in kg) and performs a physiologically accurate calculation of Body Mass Index (BMI). The primary objective is not just to output the raw number, but to categorize the individual's result against globally accepted weight status standards (Underweight, Healthy/Normal, Overweight, and Obese) to provide an immediate, actionable health risk indicator. This tool must correctly handle data types and ensure that the conditional logic for classification uses non-overlapping, mutually exclusive ranges to prevent misdiagnosis.
 
 Scope of the Project:
